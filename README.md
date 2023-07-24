@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Kutay</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">A passionate Cyber Security Specialist from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutaykoca&label=Profile%20views&color=0e75b6&style=flat" alt="kutaykoca" /> </p>
 
 - 🔭 I’m currently working on [Onat Digital](https://www.onatpro.com/)
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently learning **Splunk, IBM QRadar, Tenable Nessus, Nmap, Wireshark and FlareVM**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kutaykoca](https://github.com/kutaykoca)
+- 👨‍💻 All of my projects are available at [kutaykoca.com](https://www.kutaykoca.com/)
 
 - 📫 How to reach me **iletisim@kutaykoca.com**
 
