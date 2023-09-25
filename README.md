@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Onat Digital](https://www.onatpro.com/)
 
-- 🌱 I’m currently learning **Splunk, IBM QRadar, Tenable Nessus, Nmap, Wireshark and FlareVM**
+- 🌱 I’m currently learning **Splunk, IBM QRadar, The Hive, CrowdStrike, Tenable Nessus, Nmap and Wireshark**
 
 - 👨‍💻 All of my projects are available at [kutaykoca.com](https://www.kutaykoca.com/)
 
-- 📫 How to reach me **iletisim@kutaykoca.com**
+- 📫 How to reach me **info@kutaykoca.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
