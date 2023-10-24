@@ -14,18 +14,38 @@
 
 <br/><br/>
 
+<p><em>Security Researcher and Cyber Security Analyst<br>
+  CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/kutaykoca/" target="_blank" rel="nofollow"><img alt="Kutay's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:info@kutaykoca.com" target="_blank" rel="nofollow"><img alt="Kutay's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="www.kutaykoca.com" target="_blank"><img alt="Kutay's Website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,git,css,docker,figma,firebase,github,html,js,md,materialui,mongodb,postman,py,redux,tailwind,ts,vscode,gitlab&perline=10" />
-  </a>
-</p>
+<br/><br/>
+
+### More about me...
+
+```go
+package main
+
+type Me struct{
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Job: "Security Researcher and Red&Blue Team",
+    Code: "Python and Java and C# and Everythings",
+    BestAndFavoriteSkill: "Web Hacking :D"
+  }
+  _ = me
+}
+```
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
