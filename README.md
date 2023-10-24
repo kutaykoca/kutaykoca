@@ -2,11 +2,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kutaykoca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kutaykoca" height="30" width="40" /></a>
-</p>
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&vCenter=true&width=435&lines=+Hi%2C+I'am+Kutay+KOCA%C5%9E.; Yes+I'm+a+Cyber+Security+Expert" alt="Typing SVG" /></a>
 <br/><br/>
@@ -17,17 +12,12 @@
        alt="snake" /></a>
 </div>
 
-
 <br/><br/>
-
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/kutaykoca/" target="_blank" rel="nofollow"><img alt="Kutay's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:info@kutaykoca.com" target="_blank" rel="nofollow"><img alt="Kutay's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <!--tech stack icons-->
