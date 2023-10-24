@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/kutaykoca/" target="_blank" rel="nofollow"><img alt="Kutay's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:info@kutaykoca.com" target="_blank" rel="nofollow"><img alt="Kutay's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="www.kutaykoca.com" target="_blank"><img alt="Kutay's Website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" /></a>
+ <a href="https://www.kutaykoca.com" target="_blank"><img alt="Kutay's Website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" /></a>
 
 <br/>
 
