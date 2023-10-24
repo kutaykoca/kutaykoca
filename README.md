@@ -13,6 +13,7 @@
 <br/>
 
 <p><em>Security Researcher and Cyber Security Analyst<br>
+<br/>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
