@@ -12,19 +12,18 @@
        alt="snake" /></a>
 </div>
 
-<br/><br/>
+<br/>
 
-<p><em>Security Researcher and Cyber Security Analyst<br>
-  CTFer and Whitehat <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Security Researcher and Cyber Security Analyst<br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/kutaykoca/" target="_blank" rel="nofollow"><img alt="Kutay's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:info@kutaykoca.com" target="_blank" rel="nofollow"><img alt="Kutay's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="www.kutaykoca.com" target="_blank"><img alt="Kutay's Website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
 ### More about me...
 
