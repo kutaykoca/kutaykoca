@@ -5,11 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&vCenter=true&width=435&lines=+Hi%2C+I'am+Kutay+KOCA.; Yes+I'm+a+Cyber+Security+Expert" alt="Typing SVG" /></a>
 <br/><br/>
 
-<!--- snake -->
-<div align="center">
-<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
 <br/>
 
 <p><em>Security Researcher and Cyber Security Analyst<br>
