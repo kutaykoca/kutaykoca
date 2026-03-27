@@ -1,7 +1,7 @@
 <div align="center">
 
 ```css
-[Security Engineer] [Red & Blue Team]
+[Security Engineer] [Blue Team]
 ```
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150"/>
